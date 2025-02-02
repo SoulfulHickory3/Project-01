@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Maxym Chmeliwskyj
 
-# Your Github username
+# SoulfulHickory3
 
-# List the things you added for points
+# I added both what I made from projects 1c and 1d. Combined, those should qualify for points.
